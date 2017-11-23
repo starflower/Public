@@ -1,9 +1,5 @@
 Public
 ======
 
-My public repository
+just stuff
 
-# This readme was written with [prose.io](http://prose.io/ "Pros.io")
-## Markdown for the browser
-	
-    Just wonderful
